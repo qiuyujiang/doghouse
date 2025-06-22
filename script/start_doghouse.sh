@@ -1,0 +1,1 @@
+nohup java -jar doghouse.jar --spring.profiles.active=pro > output.log 2>&1 &
